@@ -1,0 +1,37 @@
+---
+title: "Publications"
+description: "Manuscripts and publications by Qingyang Liu."
+---
+
+This page lists verified bibliographic information only. Journal, DOI, and arXiv metadata will be added after they are publicly available and confirmed.
+
+## Manuscripts
+
+:::: {.publication-entry}
+<p><span class="status-badge">Manuscript</span></p>
+
+### Portraits of Charmoniumlike States
+
+<p class="publication-authors">Qingyang Liu, Xiangyu Jiang, Ying Chen, Chunjiang Shi, and Wei Sun</p>
+
+**Status:** Manuscript.
+
+No journal acceptance, DOI, or arXiv link is listed at this stage.
+
+<!-- TODO: Add only verified journal, DOI, arXiv, year, and public-link metadata when available. -->
+::::
+
+## Template for future entries
+
+:::: {.publication-entry .publication-template}
+<p><span class="status-badge status-badge--muted">Template</span></p>
+
+### TODO — Paper title
+
+**Authors:** TODO — verified author list  
+**Venue or status:** TODO — journal, proceedings, preprint, or manuscript  
+**Year:** TODO — verified publication year  
+**Identifiers:** TODO — DOI and arXiv links, if assigned
+
+Only fields supported by a public bibliographic record will be displayed.
+::::

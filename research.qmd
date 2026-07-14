@@ -1,0 +1,51 @@
+---
+title: "Research"
+description: "Research themes in lattice QCD, hadron structure, two-hadron systems, and relativistic potential models."
+---
+
+My research concerns nonperturbative hadron physics and complementary model descriptions. The themes below describe current directions without assigning quantitative conclusions before the corresponding analyses are complete.
+
+## Spatial structures of charmoniumlike states
+
+::: {.research-panel}
+Spatial correlation functions provide a way to characterize how quantum numbers and constituent densities are distributed inside a hadronic state. For a state (H), a representative equal-time density–density correlation is
+
+$$
+C_H(\mathbf r)
+=
+\langle H \vert \rho(\mathbf 0)\,\rho(\mathbf r) \vert H\rangle .
+$$
+
+The analysis focuses on defining suitable lattice observables, controlling their symmetry properties, and comparing spatial patterns across charmonium and charmoniumlike channels. Interpretations are kept tied to the measured correlation functions and their systematic uncertainties.
+:::
+
+## Two-hadron systems and four-point correlation functions
+
+::: {.research-panel}
+Two-hadron systems require observables that retain information about relative separation and Euclidean-time evolution. A schematic four-point function can be written as
+
+$$
+G_{AB}(\mathbf r,t)
+=
+\langle 0 \vert
+\mathcal O_A(\mathbf r,t)\,\mathcal O_B(\mathbf 0,t)\,
+\overline{\mathcal J}_{AB}(0)
+\vert 0\rangle .
+$$
+
+Current work considers analysis methods for such correlators, including operator construction, lattice-symmetry projections, and the separation of single-hadron and interaction effects. The goal is a transparent route from four-point data to carefully qualified statements about two-hadron structure and interactions.
+:::
+
+## Cornell–Dirac models
+
+::: {.research-panel}
+Relativistic potential models offer a controlled setting for testing how heavy-quark wave functions respond to short- and long-distance interactions. A commonly used Cornell-type radial form is
+
+$$
+V_{\mathrm C}(r)
+=
+-\frac{\kappa}{r}+\sigma r+V_0 .
+$$
+
+The Cornell–Dirac program studies numerical solutions of Dirac equations with Cornell-like interactions, with attention to conventions, Lorentz structure, boundary conditions, and stable radial discretization. These models are used as complementary theoretical tools rather than substitutes for first-principles lattice calculations.
+:::

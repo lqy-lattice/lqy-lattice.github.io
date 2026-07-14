@@ -1,0 +1,106 @@
+---
+pagetitle: "Qingyang Liu | Theoretical Physics"
+description: "Academic homepage of Qingyang Liu, with research interests in lattice QCD, hadron spectroscopy, and relativistic potential models."
+page-layout: full
+toc: false
+---
+
+::::: {.home-shell}
+
+:::: {.home-hero}
+<p class="hero-kicker">Theoretical Physics</p>
+
+# Qingyang Liu {.hero-title}
+
+<p class="hero-subtitle">Theoretical Physics <span aria-hidden="true">·</span> Lattice QCD <span aria-hidden="true">·</span> Hadron Spectroscopy</p>
+
+<p class="hero-intro">I study the structure and interactions of hadrons using lattice field theory and relativistic models. My current interests center on charmonium and charmoniumlike states, two-hadron systems, and the connection between correlation functions and spatial observables.</p>
+
+<p class="hero-actions"><a class="btn btn-primary" href="research.qmd">Explore research</a> <a class="btn btn-outline-primary" href="publications.qmd">View publications</a></p>
+::::
+
+## Research Interests {.home-section-title}
+
+<p class="section-intro">Questions at the intersection of nonperturbative QCD, hadron structure, and controlled phenomenological modeling.</p>
+
+:::: {.card-grid .card-grid--three}
+::: {.academic-card}
+### Lattice QCD
+
+Correlation functions and spatial observables for nonperturbative studies of hadrons.
+:::
+
+::: {.academic-card}
+### Hadron spectroscopy
+
+The spectrum and internal organization of charmonium and charmoniumlike states.
+:::
+
+::: {.academic-card}
+### Hadron interactions
+
+Two-hadron systems, four-point functions, and their spatial and dynamical content.
+:::
+
+::: {.academic-card}
+### Charm physics
+
+Heavy-quark systems as a setting for connecting QCD calculations with effective descriptions.
+:::
+
+::: {.academic-card}
+### Relativistic models
+
+Cornell-type interactions and Dirac formulations for complementary theoretical analysis.
+:::
+::::
+
+## Selected Projects {.home-section-title}
+
+:::: {.card-grid .card-grid--three}
+::: {.project-card}
+<p class="card-label">Lattice structure</p>
+
+### Portraits of charmoniumlike states
+
+Studying spatial density correlations as probes of hadron structure in lattice QCD.
+
+[Research context →](research.qmd#spatial-structures-of-charmoniumlike-states){.card-link}
+:::
+
+::: {.project-card}
+<p class="card-label">Two-hadron systems</p>
+
+### Four-point correlation analysis
+
+Developing analysis strategies for spatially resolved two-hadron correlation functions.
+
+[Research context →](research.qmd#two-hadron-systems-and-four-point-correlation-functions){.card-link}
+:::
+
+::: {.project-card}
+<p class="card-label">Relativistic modeling</p>
+
+### Cornell–Dirac models
+
+Exploring relativistic potential descriptions of heavy-quark systems and their wave functions.
+
+[Research context →](research.qmd#cornelldirac-models){.card-link}
+:::
+::::
+
+## Recent Work {.home-section-title}
+
+:::: {.recent-work}
+<p class="card-label">Manuscript</p>
+
+### Portraits of Charmoniumlike States
+
+Qingyang Liu, Xiangyu Jiang, Ying Chen, Chunjiang Shi, and Wei Sun
+
+The manuscript develops a spatial perspective on charmoniumlike states. Bibliographic links will be added when verified public records are available.
+
+[Publication details →](publications.qmd){.card-link}
+::::
+
+:::::

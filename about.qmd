@@ -1,0 +1,40 @@
+---
+title: "About"
+description: "About Qingyang Liu and contact information."
+---
+
+I am interested in theoretical studies of hadron structure and interactions, with an emphasis on lattice QCD, charmonium and charmoniumlike states, and relativistic potential models.
+
+## Profile
+
+::: {.profile-panel}
+**Name**  
+Qingyang Liu
+
+**Field**  
+Theoretical Physics
+
+**Institution**  
+<span class="todo-marker">TODO</span> Add current institutional affiliation.
+
+**Position**  
+<span class="todo-marker">TODO</span> Add current position or title.
+
+**Email**  
+<span class="todo-marker">TODO</span> Add a public academic email address.
+
+**ORCID**  
+<span class="todo-marker">TODO</span> Add a verified ORCID identifier.
+:::
+
+## Research interests
+
+- Lattice QCD
+- Hadron spectroscopy
+- Charmonium and charmoniumlike states
+- Hadron–hadron interactions
+- Relativistic potential models
+
+## Online
+
+[GitHub profile](https://github.com/lqy-lattice){.btn .btn-outline-primary}

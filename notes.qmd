@@ -1,0 +1,36 @@
+---
+title: "Notes"
+description: "Notes on lattice QCD, quantum field theory, group theory, and numerical methods."
+---
+
+This section will collect concise technical notes developed alongside research and study. The emphasis will be on clear conventions, derivations that can be checked line by line, and practical connections to numerical work.
+
+## Planned topics
+
+:::: {.card-grid .card-grid--two}
+::: {.academic-card}
+### Lattice QCD
+
+Euclidean correlation functions, lattice symmetries, operator construction, and analysis conventions.
+:::
+
+::: {.academic-card}
+### Quantum field theory
+
+Field-theory identities, spectral representations, and calculations useful in hadron physics.
+:::
+
+::: {.academic-card}
+### Group theory
+
+Representations, angular momentum, continuum symmetries, and their reduction on the lattice.
+:::
+
+::: {.academic-card}
+### Numerical methods
+
+Linear algebra, fitting, discretization, uncertainty analysis, and reproducible computational practice.
+:::
+::::
+
+Notes will be published here as they are completed and reviewed.

@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Qingyang Liu"
+  navbar:
+    collapse-below: lg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software
+      - href: notes.qmd
+        text: Notes
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/lqy-lattice
+        aria-label: "Qingyang Liu on GitHub"
+  page-footer:
+    left: "Qingyang Liu"
+    right: "Theoretical Physics"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    respect-user-color-scheme: true
+    css: styles.css
+    toc: true
+    toc-title: "On this page"
+    toc-depth: 2
+    code-copy: true
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

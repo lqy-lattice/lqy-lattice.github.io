@@ -1,0 +1,34 @@
+---
+title: "Software"
+description: "Research software projects by Qingyang Liu."
+---
+
+These planned research-code projects will support reproducible analysis and numerical experimentation. Repository links will be added only when the corresponding code is ready for public use.
+
+## Projects
+
+:::: {.card-grid .card-grid--three .software-grid}
+::: {.software-card}
+<p><span class="status-badge">In development</span></p>
+
+### Charmonium density analysis
+
+Planned tools for organizing, analyzing, and visualizing spatial density correlations in charmonium and charmoniumlike channels.
+:::
+
+::: {.software-card}
+<p><span class="status-badge">In development</span></p>
+
+### Cornell–Dirac solver
+
+A planned numerical solver for radial Dirac systems with configurable Cornell-like interactions and documented conventions.
+:::
+
+::: {.software-card}
+<p><span class="status-badge">In development</span></p>
+
+### Two-hadron correlation analysis
+
+Planned workflows for four-point correlation data, symmetry projections, quality checks, and reproducible two-hadron analysis.
+:::
+::::
